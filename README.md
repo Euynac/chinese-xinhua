@@ -2,6 +2,10 @@
 
 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
+原作者已不维护，因此Fork过来进行错误的修正、语料添加等，欢迎指出错误，将快速修正。
+
+感谢原作者@[pwxcoo](https://github.com/Euynac/chinese-xinhua/commits?author=pwxcoo) 
+
 ## Project Structure
 
 ```
